@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Kevin Riexinger | Eure Stimme im Senat
 description: Wahlseite zu den Senatswahlen 2022 /23
+google_analytics: G-WN769SMRGT

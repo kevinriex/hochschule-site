@@ -1,5 +1,3 @@
-# Kevin Riexinger | Eure Stimme im Senat!
-
 ![Foto Campus CVH](https://hochschule-bochum.de/fileadmin/public/Die-BO_Hochschule/campus_VH/Uebersicht/Titelbild/Gebaeude_Front_ohne_Kran.jpg)
 
 Hier könnt ihr eure Wünsche / Anregungen für den CVH loswerden!
