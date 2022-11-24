@@ -7,11 +7,24 @@ Hier könnt ihr eure Wünsche / Anregungen für den CVH loswerden!
 ## Zu meiner Person
 
 ### Steckbrief
-| | |
-| --- | --- |
-| Name: | Kevin Riexinger |
-| Alter: | 19 Jahre |
-| Studiengang: | Angewandte Informatik (KIS) |
-| Hobbys: | Musik, IT, Politik |
+
+<table>
+    <tr>
+        <td>Name:</td>
+        <td>Kevin Riexinger</td>
+    </tr>
+    <tr>
+        <td>Alter:</td>
+        <td>19 Jahre</td>
+    </tr>
+    <tr>
+        <td>Studiengang:</td>
+        <td>Angewandte Informatik (KIS)</td>
+    </tr>
+    <tr>
+        <td>Hobbys:</td>
+        <td>Musik, IT, Politik</td>
+    </tr>
+</table>
 
 ![Foto Kevin](src/imgs/kevinriexinger.jpg)
