@@ -2,7 +2,7 @@
 
 Hier könnt ihr eure Wünsche / Anregungen für den CVH loswerden!
 
-[Ich möchte Ideen abgeben!](https://forms.office.com/r/Cm5nJxmyBf)
+<button width="50vw" href="https://forms.office.com/r/Cm5nJxmyBf">Ich möchte Ideen abgeben!</button>
 
 ## Zu meiner Person
 
